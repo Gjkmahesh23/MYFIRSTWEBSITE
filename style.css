@@ -1,0 +1,118 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/028/636/070/small/an-empty-director-chair-in-front-of-an-empty-film-set-gloomy-background-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#b1{
+    background-image: url(https://wallpapers.com/images/hd/konoha-k7mlm1gtigegrxrg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+    }
+
+    #b2{
+        background-image: url(https://motionbgs.com/media/2770/shadows-army-solo-leveling.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+
+ #b3{
+    background-image: url(https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/05/03/demon-slayer-akaza-in-infinity-castle-1024x576.jpeg);
+    background-repeat: no-repeat;
+        background-size: cover;
+            }
+
+
+ #b4{
+     background-image: url(https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/11/10/IMDb-one-punch-man.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+
+ #b5{
+     background-image: url(https://e0.pxfuel.com/wallpapers/1008/56/desktop-wallpaper-naruto-final-valley.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+               }
+#b6{
+      background-image: url(https://assetsio.gnwcdn.com/attack-on-titan-watch-order-aot.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp);
+         background-repeat: no-repeat;
+         background-size: cover;
+            }
+
+#main{
+    text-align: center;
+    color: brown;
+   
+}
+
+
+#m1{
+    text-align: center;
+    color: orangered;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+#m2{
+    text-align: center;
+    color: maroon;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+#m3{
+    text-align: center;
+    color: darkorange;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+#m4{
+    text-align: center;
+    color: goldenrod;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+#m5{
+    text-align: center;
+    color: orangered;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+#m6{
+    text-align: center;
+    color: ghostwhite;
+     font-family: "Rubik Doodle Shadow", system-ui;
+     font-weight: 400;
+    
+}
+
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 2fr 0fr;
+    column-gap: 5px;
+   }
+   
+   img{
+    height: 360px; margin: 35px; border: solid DarkSlateGrey 5px;
+   }
+   
+   .text {
+     font-size: 20px;
+     font-family: "Dancing Script", cursive;
+   }
+
+
+
+ 
+  
